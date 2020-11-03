@@ -1,0 +1,70 @@
+li = []
+# print(li)
+# print(type(li))
+# print(len(li))
+
+# li = [30, "jamia", 9.8]
+# print(li)
+# print(type(li))
+# print(len(li))
+# print(li[0])
+# print(type(li[0]))
+# print(li[1])
+# print(type(li[1]))
+# print(li[2])
+# print(li[4])
+
+# li[0] = 10
+# print(li)
+# li[3] = "jnu"
+
+li.insert(10,"khan")
+print(li)
+print(len(li))
+# print(len(li))
+# li.insert(1, "jamia")
+# print(li)
+# print(len(li))
+
+# li = [10, 20, 30, 40, 50, 60]
+# print(li)
+# print(li[:])
+# print(li[1:])
+# print(li[:5])
+# print(li[1:4])
+# li.append("jamia")
+# print(li)
+# print(len(li))
+# li.append("millia")
+# print(li)
+# print(len(li))
+# li.append(110025)
+# print(li)
+# print(len(li))
+
+# li1 = [10, 20, 30]
+# li2 = [10, 0.2, 0.3]
+# li1.append(li2)
+# print(li1)
+# print(len(li1))
+# print(type(li1))
+# print(li2)
+# print(len(li2))
+
+# li1.extend(li2)
+# print(li1)
+# print(len(li1))
+# print(li2)
+# print(len(li2))
+# li1.remove(10)
+# print(li1)
+# print(len(li1))
+# li1.remove(0.2)
+# print(li1)
+# print(len(li1))
+# li1.pop()
+# print(li1)
+# li1.pop(2)
+# print(li1)
+# li1.pop(100)
+# print(li1)

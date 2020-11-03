@@ -1,0 +1,21 @@
+n = int(input())
+i = 1
+while(i <= n):
+	j = 1
+	while(j <= n-i):
+		print(" ", end = "")
+		j += 1
+	k = 1
+	v = i
+	while(k <= i):
+		print(v, end = "")
+		k += 1
+		v += 1
+	l = k-2
+	v = v-2
+	while(l >= 1):
+		print(v, end = "")
+		l -= 1 
+		v -= 1
+	print()
+	i += 1 
